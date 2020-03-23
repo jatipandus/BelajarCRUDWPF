@@ -1,0 +1,42 @@
+D:\VisualBC\Belajar_CRUD_WPF\belajarCRUDWPF\belajarCRUDWPF\obj\Debug\MainWindow.g.cs
+D:\VisualBC\Belajar_CRUD_WPF\belajarCRUDWPF\belajarCRUDWPF\obj\Debug\App.g.cs
+D:\VisualBC\Belajar_CRUD_WPF\belajarCRUDWPF\belajarCRUDWPF\obj\Debug\belajarCRUDWPF_MarkupCompile.cache
+D:\VisualBC\Belajar_CRUD_WPF\belajarCRUDWPF\belajarCRUDWPF\obj\Debug\belajarCRUDWPF_MarkupCompile.lref
+D:\VisualBC\Belajar_CRUD_WPF\belajarCRUDWPF\belajarCRUDWPF\bin\Debug\belajarCRUDWPF.exe.config
+D:\VisualBC\Belajar_CRUD_WPF\belajarCRUDWPF\belajarCRUDWPF\bin\Debug\belajarCRUDWPF.exe
+D:\VisualBC\Belajar_CRUD_WPF\belajarCRUDWPF\belajarCRUDWPF\bin\Debug\belajarCRUDWPF.pdb
+D:\VisualBC\Belajar_CRUD_WPF\belajarCRUDWPF\belajarCRUDWPF\bin\Debug\EntityFramework.dll
+D:\VisualBC\Belajar_CRUD_WPF\belajarCRUDWPF\belajarCRUDWPF\bin\Debug\EntityFramework.SqlServer.dll
+D:\VisualBC\Belajar_CRUD_WPF\belajarCRUDWPF\belajarCRUDWPF\bin\Debug\EntityFramework.xml
+D:\VisualBC\Belajar_CRUD_WPF\belajarCRUDWPF\belajarCRUDWPF\bin\Debug\EntityFramework.SqlServer.xml
+D:\VisualBC\Belajar_CRUD_WPF\belajarCRUDWPF\belajarCRUDWPF\obj\Debug\MainWindow.baml
+D:\VisualBC\Belajar_CRUD_WPF\belajarCRUDWPF\belajarCRUDWPF\obj\Debug\belajarCRUDWPF.g.resources
+D:\VisualBC\Belajar_CRUD_WPF\belajarCRUDWPF\belajarCRUDWPF\obj\Debug\belajarCRUDWPF.Migrations.addsuppliermodel.resources
+D:\VisualBC\Belajar_CRUD_WPF\belajarCRUDWPF\belajarCRUDWPF\obj\Debug\belajarCRUDWPF.Properties.Resources.resources
+D:\VisualBC\Belajar_CRUD_WPF\belajarCRUDWPF\belajarCRUDWPF\obj\Debug\belajarCRUDWPF.csproj.GenerateResource.Cache
+D:\VisualBC\Belajar_CRUD_WPF\belajarCRUDWPF\belajarCRUDWPF\obj\Debug\belajarCRUDWPF.exe
+D:\VisualBC\Belajar_CRUD_WPF\belajarCRUDWPF\belajarCRUDWPF\obj\Debug\belajarCRUDWPF.pdb
+D:\VisualBC\Belajar_CRUD_WPF\belajarCRUDWPF\belajarCRUDWPF\obj\Debug\belajarCRUDWPF.csprojResolveAssemblyReference.cache
+D:\VisualBC\Belajar_CRUD_WPF\belajarCRUDWPF\belajarCRUDWPF\obj\Debug\belajarCRUDWPF.Migrations.additemmodel.resources
+C:\Users\Jati Pandu Saputra\Documents\Visual Studio 2017\Projects\belajarCRUDWPF\belajarCRUDWPF\bin\Debug\belajarCRUDWPF.exe.config
+C:\Users\Jati Pandu Saputra\Documents\Visual Studio 2017\Projects\belajarCRUDWPF\belajarCRUDWPF\bin\Debug\belajarCRUDWPF.exe
+C:\Users\Jati Pandu Saputra\Documents\Visual Studio 2017\Projects\belajarCRUDWPF\belajarCRUDWPF\bin\Debug\belajarCRUDWPF.pdb
+C:\Users\Jati Pandu Saputra\Documents\Visual Studio 2017\Projects\belajarCRUDWPF\belajarCRUDWPF\bin\Debug\EntityFramework.dll
+C:\Users\Jati Pandu Saputra\Documents\Visual Studio 2017\Projects\belajarCRUDWPF\belajarCRUDWPF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jati Pandu Saputra\Documents\Visual Studio 2017\Projects\belajarCRUDWPF\belajarCRUDWPF\bin\Debug\EntityFramework.xml
+C:\Users\Jati Pandu Saputra\Documents\Visual Studio 2017\Projects\belajarCRUDWPF\belajarCRUDWPF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jati Pandu Saputra\Documents\Visual Studio 2017\Projects\belajarCRUDWPF\belajarCRUDWPF\obj\Debug\belajarCRUDWPF.csprojResolveAssemblyReference.cache
+C:\Users\Jati Pandu Saputra\Documents\Visual Studio 2017\Projects\belajarCRUDWPF\belajarCRUDWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Jati Pandu Saputra\Documents\Visual Studio 2017\Projects\belajarCRUDWPF\belajarCRUDWPF\obj\Debug\App.g.cs
+C:\Users\Jati Pandu Saputra\Documents\Visual Studio 2017\Projects\belajarCRUDWPF\belajarCRUDWPF\obj\Debug\belajarCRUDWPF_MarkupCompile.cache
+C:\Users\Jati Pandu Saputra\Documents\Visual Studio 2017\Projects\belajarCRUDWPF\belajarCRUDWPF\obj\Debug\belajarCRUDWPF_MarkupCompile.lref
+C:\Users\Jati Pandu Saputra\Documents\Visual Studio 2017\Projects\belajarCRUDWPF\belajarCRUDWPF\obj\Debug\MainWindow.baml
+C:\Users\Jati Pandu Saputra\Documents\Visual Studio 2017\Projects\belajarCRUDWPF\belajarCRUDWPF\obj\Debug\belajarCRUDWPF.g.resources
+C:\Users\Jati Pandu Saputra\Documents\Visual Studio 2017\Projects\belajarCRUDWPF\belajarCRUDWPF\obj\Debug\belajarCRUDWPF.Properties.Resources.resources
+C:\Users\Jati Pandu Saputra\Documents\Visual Studio 2017\Projects\belajarCRUDWPF\belajarCRUDWPF\obj\Debug\belajarCRUDWPF.csproj.GenerateResource.Cache
+C:\Users\Jati Pandu Saputra\Documents\Visual Studio 2017\Projects\belajarCRUDWPF\belajarCRUDWPF\obj\Debug\belajarCRUDWPF.exe
+C:\Users\Jati Pandu Saputra\Documents\Visual Studio 2017\Projects\belajarCRUDWPF\belajarCRUDWPF\obj\Debug\belajarCRUDWPF.pdb
+C:\Users\Jati Pandu Saputra\Documents\Visual Studio 2017\Projects\belajarCRUDWPF\belajarCRUDWPF\obj\Debug\belajarCRUDWPF.Migrations.addsuppliermodel.resources
+C:\Users\Jati Pandu Saputra\Documents\Visual Studio 2017\Projects\belajarCRUDWPF\belajarCRUDWPF\obj\Debug\belajarCRUDWPF.Migrations.additemmodel.resources
+C:\Users\Jati Pandu Saputra\Documents\Visual Studio 2017\Projects\belajarCRUDWPF\belajarCRUDWPF\obj\Debug\belajarCRUDWPF.Migrations.addusermodel.resources
+C:\Users\Jati Pandu Saputra\Documents\Visual Studio 2017\Projects\belajarCRUDWPF\belajarCRUDWPF\obj\Debug\belajarCRUDWPF.Migrations.updatesuppliermodel.resources
